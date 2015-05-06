@@ -5,7 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
+<<<<<<< HEAD
 	<ProjectGuid>{6E9DA573-8F60-F071-61A0-2E65960A5F00}</ProjectGuid>
+=======
+	<ProjectGuid>{E7600C5C-4584-6AA2-0EBA-3AC72C0BB94E}</ProjectGuid>
+>>>>>>> 062916c49c5a82f4d68e8d9ad09d176aea40584d
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,7 +50,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
      <Compile Include="Assets\Script\kikijump.cs" />
+=======
+     <Compile Include="Assets\script\Lompat.cs" />
+>>>>>>> 062916c49c5a82f4d68e8d9ad09d176aea40584d
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
